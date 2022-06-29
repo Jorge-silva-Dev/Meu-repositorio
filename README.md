@@ -1,2 +1,2 @@
 # Meu repositorio
- sobre aula de git
+ sobre aula de git-GitHub
